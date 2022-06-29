@@ -1,0 +1,81 @@
+﻿@model Proj3_Aftaabuddin.Models.RegisteredUser
+@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<div class="text-center">
+    <img src="~/lib/burger_img.png" alt="Logo" />
+    <style>
+        body {
+            background-image: url(lib/background_burger.png);
+            background-size: cover;
+        }
+    </style>
+</div>
+
+@using (Html.BeginForm("Submit", "Home", FormMethod.Post))
+{
+<center>
+    <div id="orderType">
+        <p style="color: whitesmoke;"> ORDER TYPE </p>
+        <select id="selOptions" name="MyOption">
+            <option>Delivery</option>
+            <option>Take out</option>
+        </select>
+
+    </div>
+    <div id="form">
+        <h4>ADDITIONAL PATTIES: </h4>
+        <select id="ExPatties" name="ExPatties">
+            <option>0</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+        </select>
+
+        <h4> NAME ON ORDER:</h4>
+    </div>
+    <p>@Html.TextBoxFor(m => m.Name)</p>
+
+    <div id="form">
+        <h4> PATTY CHOICE:</h4>
+    </div>
+    <select id="PattyChoice" name="PattyChoice">
+        <option>Beyond </option>
+        <option>Turkey </option>
+        <option>Beef </option>
+    </select>
+
+
+    <div id="form">
+        <h4>EXTRA'S:</h4>
+
+        <select id="bacon" name="Bacon">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select>
+        @Html.LabelFor(m => m.Bacon, new { @class = "form-label" })
+
+        <select id="cheese" name="Cheese">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select>
+        @Html.LabelFor(m => m.Cheese, new { @class = "form-label" })
+
+    </div>
+    <div id="form">
+        <h4>SPECIAL REQUESTS:</h4>
+    </div>
+    <p>
+        @Html.TextAreaFor(m => m.SpecialReq)
+    </p>
+    <p>  @Html.ValidationMessageFor(m => m.SpecialReq)</p>
+
+    @Html.HiddenFor(m => m.Cost, new { id = "Cost" })
+
+    <input Type="Submit" value="SUBMIT MY ORDER!" OnClick="Calculation()" class="btn btn-success" />
+</center>
+}

@@ -1,0 +1,51 @@
+﻿@model List<Proj3_Aftaabuddin.Models.RegisteredUser>
+
+@if (Model != null && Model.Count > 0)
+{
+
+    <form method="get" action="/Home/Registrations">
+        <input type="text" id="filter" name="filter" value="@ViewBag.Filter" />
+        <input type="submit" value="Filter" class="btn btn-dark" />
+    </form>
+    <br />
+    <table class="table table-dark">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Options</th>
+                <th>Additional Patties</th>
+                <th>Patty Choice</th>
+                <th>Special Requests</th>
+                <th>Cheese</th>
+                <th>Bacon</th>
+                <th>Cost</th>
+                <th>Date</th>
+          
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var reg in Model)
+            {
+            <tr>
+                <td>@reg.Name</td>
+                <td>@reg.MyOption</td>
+                <td>@reg.ExPatties</td>
+                <td>@reg.PattyChoice</td>
+                <td>@reg.SpecialReq</td>
+                <td>@reg.Cheese </td>
+                <td>@reg.Bacon</td>
+                <td>@reg.Cost</td>
+                <td>@reg.RegistrationDate.ToShortDateString()</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+
+}
+else
+{
+    <p> No Registrations to display.</p>
+}
+

@@ -1,0 +1,43 @@
+﻿@model Proj3_Aftaabuddin.Models.RegistrationViewModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+    <h2 style="color:black;">Thank you for filling out the order form!</h2>
+    <br />
+    <strong>Order Type:</strong> @Model.UserInfo.MyOption
+    <br />
+    <strong>
+        Name:
+    </strong>@Model.UserInfo.Name
+    <br />
+    <strong>
+        Bacon:
+    </strong> @Model.UserInfo.Bacon
+    <br />
+    <strong>
+        Cheese:
+    </strong> @Model.UserInfo.Cheese
+    <br />
+    <strong>
+        Patty Choice:
+    </strong> @Model.UserInfo.PattyChoice
+    <br />
+    <strong>
+        Additional Patties:
+    </strong> @Model.UserInfo.ExPatties
+    <br />
+    <strong>
+        Special Requests:
+    </strong> @Model.UserInfo.SpecialReq
+    <br />
+    <strong>
+        Cost:
+    </strong> @Model.UserInfo.Cost
+    <br />
+    <strong>
+        Date:
+    </strong>@Model.UserInfo.RegistrationDate.ToString()
+    <br />

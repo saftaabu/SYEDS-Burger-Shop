@@ -1,0 +1,273 @@
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.exe
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.deps.json
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.runtimeconfig.json
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.runtimeconfig.dev.json
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.dll
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.pdb
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.dll
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.pdb
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csprojAssemblyReference.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.AssemblyInfoInputs.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.AssemblyInfo.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csproj.CoreCompileInputs.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorAssemblyInfo.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorAssemblyInfo.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\staticwebassets\Proj3_Aftaabuddin.StaticWebAssets.Manifest.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\staticwebassets\Proj3_Aftaabuddin.StaticWebAssets.xml
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proj3_Aftaabuddin.styles.css
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.TagHelpers.input.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.TagHelpers.output.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorCoreGenerate.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorTargetAssemblyInfo.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorTargetAssemblyInfo.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.pdb
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.dll
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.pdb
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.genruntimeconfig.cache
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csproj.CopyComplete
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Inclass.cshtml.g.cs
+C:\Users\syeda\Desktop\DePaul\IT330\Proj2-Aftaabuddin\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Submit.cshtml.g.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.exe
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.deps.json
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.runtimeconfig.json
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.runtimeconfig.dev.json
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.pdb
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.pdb
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csprojAssemblyReference.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.AssemblyInfoInputs.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.AssemblyInfo.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csproj.CoreCompileInputs.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorAssemblyInfo.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorAssemblyInfo.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\staticwebassets\Proj3_Aftaabuddin.StaticWebAssets.Manifest.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\staticwebassets\Proj3_Aftaabuddin.StaticWebAssets.xml
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proj3_Aftaabuddin.styles.css
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.TagHelpers.input.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.TagHelpers.output.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorCoreGenerate.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Submit.cshtml.g.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorTargetAssemblyInfo.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorTargetAssemblyInfo.cs
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.pdb
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.pdb
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.genruntimeconfig.cache
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csproj.CopyComplete
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\syeda\Downloads\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registrations.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.exe
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.deps.json
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.runtimeconfig.json
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.runtimeconfig.dev.json
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.pdb
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.pdb
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csproj.AssemblyReference.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.AssemblyInfoInputs.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.AssemblyInfo.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csproj.CoreCompileInputs.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorAssemblyInfo.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorAssemblyInfo.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\staticwebassets\Proj3_Aftaabuddin.StaticWebAssets.Manifest.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\staticwebassets\Proj3_Aftaabuddin.StaticWebAssets.xml
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proj3_Aftaabuddin.styles.css
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.TagHelpers.input.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.TagHelpers.output.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorCoreGenerate.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registrations.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Submit.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorTargetAssemblyInfo.cache
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorTargetAssemblyInfo.cs
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.pdb
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csproj.CopyComplete
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.dll
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.pdb
+C:\Users\aamir\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.genruntimeconfig.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.exe
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.deps.json
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.runtimeconfig.json
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.runtimeconfig.dev.json
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.pdb
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.pdb
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csprojAssemblyReference.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.AssemblyInfoInputs.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.AssemblyInfo.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csproj.CoreCompileInputs.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorAssemblyInfo.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorAssemblyInfo.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\staticwebassets\Proj3_Aftaabuddin.StaticWebAssets.Manifest.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\staticwebassets\Proj3_Aftaabuddin.StaticWebAssets.xml
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proj3_Aftaabuddin.styles.css
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.TagHelpers.input.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.TagHelpers.output.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorCoreGenerate.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registrations.cshtml.g.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Submit.cshtml.g.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorTargetAssemblyInfo.cache
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.RazorTargetAssemblyInfo.cs
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.Views.pdb
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.csproj.CopyComplete
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.dll
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.pdb
+C:\Users\syeda\Desktop\iiProj3_Aftaabuddin (1)\Proj3_Aftaabuddin\obj\Debug\netcoreapp3.1\Proj3_Aftaabuddin.genruntimeconfig.cache
